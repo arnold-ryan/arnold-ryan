@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnold-ryan
 - 👀 I’m interested in coding web apps
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ecommerce web apps
 - 📫 How to reach me: arnold.ryan801@gmail.com
 
