@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding web apps
 - Frameworks/languages - html, css, js, nodejs, mongodb, react, git
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ecommerce web apps
 - 📫 How to reach me: arnold.ryan801@gmail.com
 
 <!---
