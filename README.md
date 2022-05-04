@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnold-ryan
 - 👀 I’m interested in coding web apps
 - Frameworks/languages - html, css, js, nodejs, mongodb, react, git
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning REACT
 - 📫 How to reach me: arnold.ryan801@gmail.com
 
 <!---
